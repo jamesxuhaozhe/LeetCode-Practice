@@ -11,4 +11,9 @@ public class TreeNode {
     public TreeNode(int x) {
         val = x;
     }
+
+    @Override
+    public boolean equals(Object obj) {
+        return this == obj;
+    }
 }
