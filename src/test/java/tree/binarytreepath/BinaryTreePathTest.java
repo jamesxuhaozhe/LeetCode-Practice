@@ -25,7 +25,7 @@ public class BinaryTreePathTest {
         tree.right = node7;
         node2.left = node1;
         node2.right = node3;
-    }                                                                                 git
+    }
 
     @Test
     public void testBinaryTreePath() throws Exception {
