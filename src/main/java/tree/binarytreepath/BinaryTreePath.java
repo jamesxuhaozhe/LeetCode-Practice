@@ -1,4 +1,4 @@
-package binarytreepath;
+package tree.binarytreepath;
 
 import datastructure.TreeNode;
 

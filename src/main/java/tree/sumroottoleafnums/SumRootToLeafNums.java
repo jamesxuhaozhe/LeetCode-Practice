@@ -13,7 +13,6 @@ public class SumRootToLeafNums {
         List<Integer> result = getList(root);
         int sum = 0;
         for (Integer i : result) {
-            System.out.println(i);
             sum += i;
         }
         return sum;

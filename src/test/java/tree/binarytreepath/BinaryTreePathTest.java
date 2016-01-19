@@ -1,6 +1,5 @@
 package tree.binarytreepath;
 
-import binarytreepath.BinaryTreePath;
 import datastructure.TreeNode;
 import org.junit.Before;
 import org.junit.Test;
