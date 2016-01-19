@@ -16,11 +16,11 @@ public class SerializeAndDeseBinaryTree {
 
     public String serialize(TreeNode root) {
 
-
+        return "0";
     }
 
     // Decodes your encoded data to tree.
     public TreeNode deserialize(String data) {
-
+        return null;
     }
 }
