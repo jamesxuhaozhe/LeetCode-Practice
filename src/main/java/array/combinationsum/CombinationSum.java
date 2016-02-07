@@ -49,5 +49,6 @@ public class CombinationSum {
         int target = 7;
         System.out.println("fix bug");
         System.out.print(new CombinationSum().combinationSum(candidates, target));
+        System.out.println("add new feature");
     }
 }
