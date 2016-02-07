@@ -47,6 +47,7 @@ public class CombinationSum {
     public static void main(final String[] args) {
         int[] candidates = new int[] {2, 3, 6, 7};
         int target = 7;
+        System.out.println("fix bug");
         System.out.print(new CombinationSum().combinationSum(candidates, target));
     }
 }
