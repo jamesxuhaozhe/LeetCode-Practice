@@ -48,6 +48,7 @@ public class CombinationSum {
         int[] candidates = new int[] {2, 3, 6, 7};
         int target = 7;
         System.out.println("fix bug");
+        System.out.println("fix security bug");
         System.out.print(new CombinationSum().combinationSum(candidates, target));
         System.out.println("add new feature");
     }
