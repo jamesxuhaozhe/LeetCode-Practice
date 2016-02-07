@@ -51,5 +51,7 @@ public class CombinationSum {
         System.out.println("fix security bug");
         System.out.print(new CombinationSum().combinationSum(candidates, target));
         System.out.println("add new feature");
+        System.out.println("Start working on new feature");
+        System.out.println("Continue working on new feature");
     }
 }
