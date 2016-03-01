@@ -11,6 +11,7 @@ public class IsBalancedBinaryTree {
         if (root == null) {
             return true;
         }
+
         int leftHeight = getHeight(root.left);
         int rightHeight = getHeight(root.right);
         if (Math.abs(leftHeight - rightHeight) > 1) {
