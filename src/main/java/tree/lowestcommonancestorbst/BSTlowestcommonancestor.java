@@ -10,6 +10,7 @@ public class BSTlowestcommonancestor {
         if (p.val < root.val && q.val < root.val) {
             return getLowestCommonAncestor(root.left, p, q);
         }
+
         if (p.val > root.val && q.val > root.val) {
             return getLowestCommonAncestor(root.right, p, q);
         }
