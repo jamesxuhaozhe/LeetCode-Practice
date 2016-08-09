@@ -1,0 +1,17 @@
+apply plugin: 'java'
+apply plugin: 'maven'
+
+group = 'com.haozhexu.leetcode'
+version = '1.0-SNAPSHOT'
+
+description = 'LeetCode Practices'
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+repositories {
+     mavenCentral()
+}
+dependencies {
+    testCompile group: 'junit', name: 'junit', version:'4.8.2'
+}

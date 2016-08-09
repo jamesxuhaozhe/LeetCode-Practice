@@ -16,3 +16,8 @@ out/
 log/
 target/
 libs/
+
+# Gradle
+.gradle/
+build/
+gradle/
