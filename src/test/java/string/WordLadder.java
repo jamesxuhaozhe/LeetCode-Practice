@@ -1,4 +1,4 @@
-package string.wordladder;
+package string;
 
 import java.util.*;
 
