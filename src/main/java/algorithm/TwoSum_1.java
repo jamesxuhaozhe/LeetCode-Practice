@@ -35,7 +35,7 @@ public class TwoSum_1 {
             }
         }
 
-        throw new IllegalArgumentException("Invald input");
+        throw new IllegalArgumentException("Invalid input");
     }
 
     public static int[] twoSumOptimized(int[] nums, int target) {
